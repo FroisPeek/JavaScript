@@ -6,3 +6,6 @@ const pi = 3.14159;
 
 let area = pi * (raio*raio);
 console.log("Valor da area: "+ area + "m²");
+
+area = Math.PI * (raio*raio);
+console.log("Valor da area: "+ area + "m²");
